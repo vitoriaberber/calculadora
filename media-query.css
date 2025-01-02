@@ -1,0 +1,43 @@
+@media screen and (width <= 1278px) {
+    .principal{
+        width: 35%;
+    }
+}
+
+@media screen and (width <= 915px) {
+    .principal{
+        width: 40%;
+    }
+
+    .sessaodois__botoes{
+        width: 50px;
+        height: 50px;
+    }
+
+    .igualbtn {
+        width: 130px;
+        border-radius: 40px;
+    }
+}
+
+@media screen and (width <= 700px) {
+    .principal{
+        width: 50%;
+    }
+
+    .sessaodois__botoes{
+        width: 45px;
+        height: 45px;
+    }
+
+    .igualbtn {
+        width: 120px;
+        border-radius: 40px;
+    }
+}
+
+@media screen and (width <= 390px) {
+    .principal{
+        width: 80%;
+    }
+}
