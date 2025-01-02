@@ -2,7 +2,7 @@
  
 Este projeto pessoal é uma calculadora simples, que realiza operações matemáticas básicas, como adição, subtração, multiplicação, divisão e cálculo de resto da divisão. 
 
-<h2> <strong> 🛠️ Tecnologias Utilizadas</strong> </h2>
+<h2> 🛠️ Tecnologias Utilizadas </h2>
 HTML: Para criar a estrutura; <br>
 CSS: Para estilizar e deixar responsivo; <br>
 JavaScript: Para implementar a lógica de cálculo e manipular da interface; <br>
